@@ -13,5 +13,5 @@ workshopper({
     subtitle    : 'Practice your basic JavaScript skills',
     appDir      : __dirname,
     menuItems   : [],
-    exerciseDir : fpath('./exercises/')
+    exerciseDir : fpath('./Lesson 1/')
 })
